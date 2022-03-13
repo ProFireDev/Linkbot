@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/ProFireDev/Linkbot#readme",
   "dependencies": {
-    "axios": "^0.26.0",
+    "axios": "^0.26.1",
     "boxen": "^6.2.1",
     "chalk": "^5.0.0",
     "yargs": "^17.3.1"
